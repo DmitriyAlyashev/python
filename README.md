@@ -1,1 +1,1 @@
-# Repository for traning
+# Repository for traning.
